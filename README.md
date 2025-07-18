@@ -23,7 +23,13 @@
 
 ---
 
-<div style="display:flex; gap:10px;">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxominxi&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxominxi&layout=compact)
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sxominxi&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxominxi&layout=compact" />
+    </td>
+  </tr>
+</table>
