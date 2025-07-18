@@ -24,6 +24,6 @@
 ---
 
 <div style="display:flex; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxominx&show_icons=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxominx&show_icons=true" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxominxi&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxominxi&layout=compact)
 </div>
