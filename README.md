@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=160&section=header&text=Hi!%20I'm%20Minji!&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=fc3468)
+
+
+<br></br>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -20,16 +25,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="45" height="45"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
 </p>
-
----
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sxominxi&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxominxi&layout=compact" />
-    </td>
-  </tr>
-</table>
