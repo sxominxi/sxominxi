@@ -24,6 +24,6 @@
 ---
 
 <div style="display:flex; gap:10px;">
-  ![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxominxi&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxominxi&layout=compact)
 </div>
